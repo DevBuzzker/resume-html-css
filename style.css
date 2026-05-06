@@ -45,15 +45,6 @@ header ul {
     list-style: none;
 }
 
-header a {
-    text-decoration: none;
-    font-style: normal;
-}
-
-header a:hover {
-    color: hotpink;
-}
-
 body {
     font-family: system-ui;
     background-color: #fff;
