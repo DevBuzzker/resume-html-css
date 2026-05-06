@@ -24,17 +24,6 @@
     display: flex;
 }
 
-.top-section aside img     
-{
-    height: 100px;
-    width: 100px;
-    justify-items: start;
-    aspect-ratio: 1;
-    object-fit: scale-down;
-    object-position: top;
-    display: block;
-}
-
 h2 {
     font-size: 1.2rem;
     font-weight: bold;
