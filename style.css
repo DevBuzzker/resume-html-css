@@ -35,13 +35,6 @@
     display: block;
 }
 
-
-h1 {
-    font-size: 1.5rem;
-    font-weight: bold;
-    letter-spacing: 0.5px;
-    margin-bottom: 0.5rem;
-}
 h2 {
     font-size: 1.2rem;
     font-weight: bold;
@@ -55,17 +48,4 @@ body {
     background-color: #fff;
     max-width: 700px;
     min-width: 500px;
-}
-
-
-
-
-section li h3,
-section li p {
-    font-size: .8rem;
-    letter-spacing: 0.5px;
-}
-
-section li{
-    margin: 0.1rem 1rem;
 }
