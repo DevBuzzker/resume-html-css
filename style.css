@@ -35,15 +35,20 @@
     display: block;
 }
 
-header {
-    /* moved to .top-section */
-    padding: 0;
-    border: none;
+
+h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    margin-bottom: 0.5rem;
+}
+h2 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    margin-bottom: 0.5rem;
 }
 
-header ul {
-    list-style: none;
-}
 
 body {
     font-family: system-ui;
@@ -52,17 +57,8 @@ body {
     min-width: 500px;
 }
 
-main {
-    margin: 2rem 4rem;
-}
 
-section {
-    margin-bottom: 3rem;
-}
 
-p {
-    max-width: 80ch;
-}
 
 section li h3,
 section li p {
