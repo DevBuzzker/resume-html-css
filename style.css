@@ -11,18 +11,6 @@
     gap: 2rem;
 }
 
-.top-section header {
-    flex: 1 1 0;
-    min-width: 0;
-    padding: 0;
-    border: none;
-}
-
-.top-section aside {
-    margin: 0;
-    margin-right: 2rem;
-    display: flex;
-}
 
 h2 {
     font-size: 1.2rem;
